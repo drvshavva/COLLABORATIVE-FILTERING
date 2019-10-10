@@ -4,7 +4,7 @@ Created on Sat May 11 18:15:30 2019
 
 @author: Havanur Dervişoğlu
 
-KNN TABANLI FİLM ÖNERİ SİSTEMİ--YZ DERSİ PROJESİ
+KNN TABANLI FİLM ÖNERİ SİSTEMİ--
 """
 import numpy as np
 import pandas as pd
